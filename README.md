@@ -39,3 +39,17 @@ Implemented dropout, batch normalization, and early stopping to prevent overfitt
 Automated data cleaning with OpenCV removed corrupted or empty images from the dataset.
 
 Real-time image prediction feature allows testing on external images for both projects.
+
+#Conclusion
+
+These projects demonstrate the power of CNNs in image classification tasks. Despite challenges such as dataset noise and class imbalance, the models achieved strong accuracy and reliability. The workflow from data preprocessing to real-time prediction shows practical applicability in computer vision problems.
+
+#Future Work
+
+Explore more complex CNN architectures and experiment with transfer learning for improved performance.
+
+Conduct fine-grained analysis of misclassified samples to improve model accuracy.
+
+Integrate models into a web or mobile application for real-world deployment.
+
+Extend the pipeline to classify multiple image categories beyond binary or 10-class classification.
