@@ -28,7 +28,7 @@ Implemented real-time predictions on custom images using OpenCV and PIL.
 
 Addressed challenges such as corrupted images, class imbalance, noisy samples, and overfitting.
 
-Results and Insights
+# Results and Insights
 
 Handwritten Digit Classification (MNIST): Achieved 99.15% test accuracy.
 
@@ -40,11 +40,11 @@ Automated data cleaning with OpenCV removed corrupted or empty images from the d
 
 Real-time image prediction feature allows testing on external images for both projects.
 
-#Conclusion
+# Conclusion
 
 These projects demonstrate the power of CNNs in image classification tasks. Despite challenges such as dataset noise and class imbalance, the models achieved strong accuracy and reliability. The workflow from data preprocessing to real-time prediction shows practical applicability in computer vision problems.
 
-#Future Work
+# Future Work
 
 Explore more complex CNN architectures and experiment with transfer learning for improved performance.
 
