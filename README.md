@@ -1,8 +1,8 @@
 # Digit-Recognition-using-CNN
-CNN-Image_Classification
+# CNN-Image_Classification
 
 This repository contains two deep learning projects that use Convolutional Neural Networks (CNNs) to classify images — one for handwritten digit recognition (MNIST) and another for binary classification (Cats vs Dogs). Both models are built and trained from scratch using PyTorch, with the ability to perform real-time predictions on custom images using OpenCV and PIL.
-Introduction
+# Introduction
 This project focuses on implementing CNN-based image classification models to demonstrate the capabilities of deep learning in computer vision.
 
 Handwritten Digit Classification: Multi-class classification of digits 0–9 using the MNIST dataset.
@@ -10,14 +10,14 @@ Handwritten Digit Classification: Multi-class classification of digits 0–9 usi
 Dog vs Cat Classification: Binary classification to distinguish between cats and dogs using the Kaggle PetImages dataset.
 
 The models provide an end-to-end workflow from data preprocessing to real-time prediction, making them suitable for learning and deployment purposes.
-Data Sources
+# Data Sources
 MNIST Dataset: 60,000 training and 10,000 testing grayscale images of handwritten digits (28×28 pixels).
 
 Kaggle PetImages Dataset: RGB images of cats and dogs, preprocessed for size consistency and image quality.
 
 Data preprocessing steps included resizing, normalization, handling corrupted images, and converting images to grayscale where necessary.
 
-Project Overview
+# Project Overview
 Built CNN models from scratch using PyTorch for both multi-class and binary classification.
 
 Applied data preprocessing including resizing, normalization, and augmentation techniques.
